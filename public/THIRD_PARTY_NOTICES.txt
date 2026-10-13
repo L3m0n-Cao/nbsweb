@@ -1,0 +1,24 @@
+Open Note Block Studio
+Copyright (c) 2026 OpenNBS. MIT License.
+See assets/LICENSE.OpenNBS.txt.
+Source: https://github.com/OpenNBS/OpenNoteBlockStudio
+
+@ffmpeg/ffmpeg 0.12.15 (JavaScript worker wrapper)
+Copyright (c) 2019 Jerome Wu. MIT License.
+See licenses/ffmpeg-wasm-MIT.txt.
+Source and build instructions: https://github.com/ffmpegwasm/ffmpeg.wasm
+
+@ffmpeg/core 0.12.10 (separately loaded audio-encoding WebAssembly worker)
+GPL-2.0-or-later, as declared by its package metadata.
+See licenses/FFmpeg-GPLv2.txt.
+Source, dependencies and build recipes: https://github.com/ffmpegwasm/ffmpeg.wasm
+FFmpeg source: https://github.com/FFmpeg/FFmpeg
+This core is distributed unmodified from the @ffmpeg/core npm package.
+
+fflate 0.8.x
+Copyright (c) 2020 Arjun Barrett. MIT License.
+See licenses/fflate-MIT.txt.
+Source: https://github.com/101arrowz/fflate
+
+The source assets from the supplied OpenNBS checkout retain their original
+notices. The application's MIT license does not replace third-party licenses.

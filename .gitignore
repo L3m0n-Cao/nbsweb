@@ -1,0 +1,35 @@
+# Dependencies and generated build files
+/node_modules/
+/dist/
+/public/assets/
+/src/generated/
+*.tsbuildinfo
+
+# Upstream GameMaker checkout: register explicitly as a submodule if desired.
+# Never add its source files directly to this repository.
+/NoteBlockStudio/
+
+# Automated test artifacts
+/test-results/
+/test-results-offline/
+/playwright-report/
+/blob-report/
+/coverage/
+
+# Local agent/editor state
+/.openchamber/
+/.opencode/
+/.idea/
+/.vscode/
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.local
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
