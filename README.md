@@ -4,6 +4,8 @@ A local-first TypeScript/Canvas/Web Audio port of the supplied Windows GameMaker
 application. Chromium is the primary browser. Songs and audio stay on the device;
 the app needs only static hosting, with no application server or desktop helper.
 
+This repo was a test on [GPT-6 Astra](https://openai.com/index/gpt-6-astra/).
+
 **Status: working development port, not full feature or pixel parity.** Based on
 [Open Note Block Studio](https://github.com/OpenNBS/NoteBlockStudio), version
 `3.12.0-beta.6`, NBS version 6. See [PARITY.md](PARITY.md) for remaining work.
